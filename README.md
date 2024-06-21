@@ -1,0 +1,2 @@
+# OnlineTourGuideBookingSystem
+ 基于SSM的在线预约导游系统是一个基于Spring、SpringMVC和MyBatis技术栈开发的系统，旨在为用户提供便捷的平台，让他们可以通过网络预约导游服务。该系统利用现代化的技术，简化了用户与导游之间的联系和预约流程，为旅行者提供更加便利的导游体验
